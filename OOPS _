@@ -1,0 +1,127 @@
+what is oops
+Object Oriented Language
+In OOPs is to design the program using classes and objects .here the object is related to real world entites like book
+pencil ,person etc anything is considered as object
+Object manily   have two things
+1.attributes
+2.behaviour
+
+-----Attributes:------
+here attributes we can imagine them as data or  properties
+we use variables to store the data. i.e attributes
+lets consider an example
+if a person is abject his attributes are
+height of the person
+age of the person
+name
+company work for
+------behaviour-------
+->Action defines our behaviour
+talking
+walikng
+writing
+standing all these comes under behaviour
+to define the behaviour we use methods
+oh what are methods , yeah we know functions right so in object oriented programming methods are functions
+____>>>>>
+in oops we have many concepts
+like
+objects
+classes
+abstraction
+polymorphisam
+inheritance
+encapsulation
+
+-------------------
+In OOPS we always use classes and objects together
+ why do we use classes and object together ????
+---->
+class is a collecction of objects
+class is a logical entity that has attributes and methods
+lets conside an example
+lets take phone i.e iphone here iphone is designed by apple in us
+and it is manufactured in china .. even though it is manufactured in china it doesnt mean this is a china phone
+it is an apple phone
+because the actual design is designed once and using it multiple time
+so we can say class - design{we can also call them as blueprint}
+so here based on the design -that mean class we create object (here objects are real stuff that mean entityzinstance
+object ---> it is an instance of a class
+which hass attributes and behaviour
+here attributes are --->variables
+behaviour are methods:
+
+
+
+----------------------------------------------------------------------------
+Overview of class and objecct :
+ how to define  a class
+ class class_name:
+    '''This is a docstring. I have created a new class'''
+    <statement 1>
+    <statement 2>
+    .
+    .
+    <statement N>
+here statment is attributte or methods
+
+what is a object :
+object is an instancec of a class
+it isa collection of attributes and behaviour
+here attributes are variables
+and behaviour are methods
+We use the object of a class to perform actions
+Attributes represent its state, and methods represent its behavior. Using its methods, we can modify its state
+Identity: Every object must be uniquely identified.
+State: An object has an attribute that represents a state of an object,
+and it also reflects the property of an object.
+Behavior: An object has methods that represent its behavior.
+
+----------------------------------------------------------------------------------------------
+
+lets see a example of classes and objects
+A real-life example of class and objects.
+
+Class: Person
+
+State: Name, Sex, Profession
+Behavior: Working, Study
+Using the above class, we can create multiple objects that depict different states and behavior.
+
+Object 1: Jessa
+
+State:
+Name: Jessa
+Sex: Female
+Profession: Software Engineer
+Behavior:
+Working: She is working as a software developer at ABC Company
+Study: She studies 2 hours a day
+Object 2: Jon
+
+State:
+Name: Jon
+Sex: Male
+Profession: Doctor
+Behavior:
+Working: He is working as a doctor
+Study: He studies 5 hours a day
+-----------------------------
+class attributes
+instancce variables
+
+The instance variables are attributes attached to an instance of a class.
+ We define instance variables in the constructor ( the __init__() method of a class)
+
+
+class variables:
+ass variable is a variable that is declared inside of class,
+but outside of any instance method or __init__() method.
+
+
+
+----------------------------------------
+__init__
+
+
+

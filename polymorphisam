@@ -1,0 +1,23 @@
+1. polymorphisam is dived into two parts
+1.poly--more
+2.morph--forms
+
+The literal meaning of polymorphism is the condition of occurrence in different forms.
+
+Polymorphism is a very important concept in programming. It refers to the use of a single type entity (method, operator or object)
+to represent different types in different scenarios.
+
+
+we have four types of
+1.ducck typing
+The literal meaning of polymorphism is the condition of occurrence in different forms.
+
+Polymorphism is a very important concept in programming.
+It refers to the use of a single type entity (method, operator or object) to represent different types in different scenarios.
+
+
+2.operator overloading
+
+
+3.method overloading
+4.method overriding
