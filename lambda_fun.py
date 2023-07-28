@@ -28,7 +28,7 @@ print(res)
 #here f is function
 f = lambda a:a*a
 #call f function
-result=f(6)
+result=f(77)
 print("using lambda",result)
 
 """
